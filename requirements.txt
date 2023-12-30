@@ -1,0 +1,25 @@
+# requirements.txt
+
+# Core
+python>=3.6
+
+# CLI Framework
+click==7.1.2
+
+# Crypto Payment API
+coinbase-commerce==1.4.0
+
+# QR Code Generation
+qrcode[pil]==6.1
+
+# HTTP Requests
+requests==2.25.1
+
+# Error Handling
+pydantic==1.8.2
+
+# Testing
+pytest==6.2.4
+
+# Security
+cryptography==3.4.7
